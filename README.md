@@ -4,13 +4,12 @@
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://rfakhrifadlan.github.io/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
- <br/>
 <div align="center">
-    <h2 align="center">😎 Reach Me!:</h2>
+    <h2 align="center">😎 Reach Me:</h2>
     <p align="center">
       <a href="https://www.linkedin.com/in/fakhrifd/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
